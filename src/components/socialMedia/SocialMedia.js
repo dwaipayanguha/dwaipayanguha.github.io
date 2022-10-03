@@ -16,7 +16,7 @@ export default function socialMedia() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Icon i icon="bi:linkedin" width="36" height="36" />
+          <Icon color="#55198b" icon="bi:linkedin" width="36" height="36" />
           <span></span>
         </a>
       ) : null}
@@ -28,7 +28,7 @@ export default function socialMedia() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Icon icon="simple-icons:gmail" color="#55198b" />
+          <Icon color="#55198b" icon="simple-icons:gmail" />
           <span></span>
         </a>
       ) : null}
@@ -40,7 +40,7 @@ export default function socialMedia() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Icon i icon="akar-icons:github-fill" />
+          <Icon color="#55198b" icon="akar-icons:github-fill" />
           <span></span>
         </a>
       ) : null}
@@ -52,7 +52,7 @@ export default function socialMedia() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Icon icon="ant-design:gitlab-filled" />
+          <Icon color="#55198b" icon="ant-design:gitlab-filled" />
           <span></span>
         </a>
       ) : null}
@@ -76,7 +76,7 @@ export default function socialMedia() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Icon icon="simple-icons:codeforces" />
+          <Icon color="#55198b" icon="simple-icons:codeforces" />
           <span></span>
         </a>
       ) : null}
@@ -88,7 +88,7 @@ export default function socialMedia() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Icon icon="simple-icons:codechef" />
+          <Icon color="#55198b" icon="simple-icons:codechef" />
           <span></span>
         </a>
       ) : null}
@@ -112,7 +112,7 @@ export default function socialMedia() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Icon icon="simple-icons:leetcode" />
+          <Icon color="#55198b" icon="simple-icons:leetcode" />
           <span></span>
         </a>
       ) : null}
