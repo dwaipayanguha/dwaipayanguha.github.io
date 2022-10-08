@@ -185,75 +185,63 @@ const openSource = {
 
 const bigProjects = {
   title: "Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/aiDriverLogo.png"),
+      projectName: "Train your AI driver",
+      projectDesc:
+        "Simulation of a self-driving car through user-defined traffic with a visualization of the neural network.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Live Link",
+          url: "https://train-your-ai-driver.netlify.app/"
+        },
+        {
+          name: "Source Code",
+          url: "https://github.com/dwaipayanguha/train-your-ai-driver"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/ethereumLogo.png"),
+      projectName: "Ethereum Raffle",
+      projectDesc:
+        "Built a decentralised application that allows users to enter a Ethereum lottery on a Solidity blockchain contract.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Source Code",
+          url: "https://github.com/dwaipayanguha/ethereum-raffle"
         }
       ]
     },
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/expenseTrackerLogo.png"),
+      projectName: "Voice powered expense tracker",
+      projectDesc:
+        "Built a React application which allows users to track their day-to-day expenses with their voice",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
+          name: "Live Link",
+          url: "https://speech-powered-budget-tracker.netlify.app/"
+        },
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Source Code",
+          url: "https://github.com/dwaipayanguha/voice-powered-budget-tracker"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/drowsinessLogo.png"),
+      projectName: "Drowsiness Detection",
+      projectDesc:
+        "Built a desktop application which detects the drowsiness of the user, and then puts the laptop to sleep.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Source Code",
+          url: "https://github.com/dwaipayanguha/Problem_Solvers"
         }
         //  you can add extra buttons here.
       ]
