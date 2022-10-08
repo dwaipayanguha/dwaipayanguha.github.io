@@ -234,6 +234,19 @@ const bigProjects = {
       ]
     },
     {
+      image: require("./assets/images/elsevierLogo.png"),
+      projectName: "Automatic Sleep Staging",
+      projectDesc:
+        "Publication on automatic sleep staging in Biomedical Signal Processing and Control, Elsevier.",
+      footerLink: [
+        {
+          name: "Publication",
+          url: "https://www.sciencedirect.com/science/article/abs/pii/S174680942200341X"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
       image: require("./assets/images/drowsinessLogo.png"),
       projectName: "Drowsiness Detection",
       projectDesc:
