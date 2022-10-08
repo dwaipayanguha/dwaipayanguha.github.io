@@ -308,6 +308,18 @@ const achievementSection = {
       ]
     },
     {
+      title: "CodeCraft-21",
+      subtitle: "Global Rank of 81 in round hosted on Codeforces",
+      image: require("./assets/images/codeforcesContestLogo.png"),
+      imageAlt: "Reply Code Challenge Logo",
+      footerLink: [
+        {
+          name: "Standings",
+          url: "https://codeforces.com/contest/1498/standings"
+        }
+      ]
+    },
+    {
       title: "Google HashCode",
       subtitle: "Scored 583139 points",
       image: require("./assets/images/hashCodeLogo.png"),
