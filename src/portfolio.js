@@ -28,7 +28,7 @@ const greeting = {
     )
   ],
   resumeLink:
-    "https://drive.google.com/file/d/1oNen7MlZVAhw-Rn-RD1B8HS7xrQYw4z4/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/11dP5Dtq2TLYapKDfPKF78LAb6b0Kndm5/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -38,7 +38,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/dwaipayan-guha-3583851b3/",
   github: "https://github.com/dwaipayanguha",
   gitlab: "https://gitlab.com/lost-zoro",
-  gmail: "dwaipayanguha10@gmail.com",
+  gmail: "mailto:dwaipayanguha10@gmail.com",
   codeforces: "https://codeforces.com/profile/UNOwen98",
   codechef: "https://www.codechef.com/users/dwaipayanguha",
   leetcode: "https://leetcode.com/UNOwen98/",
