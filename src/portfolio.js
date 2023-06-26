@@ -28,7 +28,7 @@ const greeting = {
     )
   ],
   resumeLink:
-    "https://drive.google.com/file/d/11dP5Dtq2TLYapKDfPKF78LAb6b0Kndm5/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1k6JTEdGR9loGqMH-GCNlJ7ikXJ_tiUXe/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -113,7 +113,7 @@ const educationInfo = {
       logo: require("./assets/images/jadavpurUniversityLogo.png"),
       subHeader: "B.E. in Electrical Engineering",
       duration: "June 2019 - June 2023",
-      desc: "CGPA: 9.29 / 10.0",
+      desc: "CGPA: 9.04 / 10.0",
       descBullets: [
         "Member of the Science Club and Coding Club",
         "Mentored students in competitive programming"
